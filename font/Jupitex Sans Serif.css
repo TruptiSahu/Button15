@@ -1,0 +1,11 @@
+/* Webfont: Jupitex-SansSerif */@font-face {
+    font-family: 'Jupitex';
+    src: url('Jupitex Sans Serif.eot'); /* IE9 Compat Modes */
+    src: url('Jupitex Sans Serif.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Jupitex Sans Serif.woff') format('woff'), /* Modern Browsers */
+         url('Jupitex Sans Serif.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
